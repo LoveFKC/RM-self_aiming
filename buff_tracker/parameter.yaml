@@ -1,0 +1,24 @@
+{
+    "HSV": {
+        "lowerLimit": [
+            0,
+            0,
+            255
+        ],
+        "upperLimit": [
+            90,
+            184,
+            255
+        ]
+    },
+    "MayBeTarget": {
+        "width": 0.1,
+        "height": 0.1,
+        "area": 0.1
+    },
+    "outsideRate": 1.34,
+    "insideRate": 0.72,
+    "kernel": 6,
+    "video relative path": "Z:\\RM_Buff_Tracker\\RM_Buff_Tracker_GUT-main\\examples\\example_for_prediction\\6_dark_blue_big\\dark_blue_big.MP4",
+    "start": 1
+}
